@@ -1,5 +1,10 @@
 ## Getting Started
 
+for install package
+```bash
+yarn install
+```
+
 First, run the development server:
 
 ```bash
